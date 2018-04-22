@@ -81,8 +81,6 @@ coursera:
 
 #List of interesting Github repo/projects to include - optional
 github:
- - AdityaPai2398/Vehicle-And-Pedestrian-Detection-Using-Haar-Cascades
- - AdityaPai2398/Detection-of-Terror-Elements-Online-Using-Object-Detection
  - AdityaPai2398/Random-forest-approach-to-predict-the-chances-of-a-person-being-prone-to-alcohol-or-substance-use
  - AdityaPai2398/Decision-Tree-Approach-To-Predict-the-Chances-of-A-Person-being-Addicted-to-Substances-or-Alcohol
  - AdityaPai2398/Logistic-Regression-with-NNs
@@ -92,6 +90,8 @@ github:
  - AdityaPai2398/LASSO-Regression-to-predict-the-School-Connectedness-of-a-student
  - AdityaPai2398/K-Means-to-predict-GPA
  - AdityaPai2398/Numpy-Basics-Notebook
+ - AdityaPai2398/Vehicle-And-Pedestrian-Detection-Using-Haar-Cascades
+ - AdityaPai2398/Detection-of-Terror-Elements-Online-Using-Object-Detection
  
 
 
