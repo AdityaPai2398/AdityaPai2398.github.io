@@ -34,7 +34,7 @@ blogfeed: https://mlhackerblog.wordpress.com/?feed=rss
 
 #Work experience is required
 roles:
-  -title: Blogger
+ - title: Blogger
    start: September 2017
    end: Ongoing
    employer: Self Employed
