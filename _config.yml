@@ -37,12 +37,12 @@ roles:
    start: September 2017
    end: Ongoing
    employer: Self Employed
-   description: Writing blogs on various trends and projects in Machine Learning,Deep Learning,BlockCHain and Algorithms
- - title: Research Student
+   description: Writing blogs on various trends and projects in Machine Learning, Deep Learning, BlockChain and Algorithms
+ - title: Research Intern
    start: May 2017
    end: August 2017
    employer: NMAMIT Nitte
-   description: Worked on detection of vehicles and pedestrians using Haar Cascade with background subtraction.Develoment was mainly done using OpenCV and Python,
+   description: Worked on detection of vehicles and pedestrians using Haar Cascades with background subtraction.<br>Development was mainly done using OpenCV and Python</br>
  - title: Web Developer
    start: April 2017
    end: May 2017
