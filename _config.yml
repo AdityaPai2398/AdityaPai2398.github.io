@@ -1,7 +1,7 @@
 # Site settings
-title: Rob Hinds
+title: Aditya Yogish Pai 
 twitter_username: rob_hinds
-name: Rob Hinds
+name: Aditya Yogish Pai
 
 # Build settings
 markdown: kramdown
@@ -10,62 +10,60 @@ markdown: kramdown
 #Links that will appear in the navbar
 primarylinks:
  - title: Blog
-   url: http://automateddeveloper.blogspot.com/
+   url: https://mlhackerblog.wordpress.com/
  - title: GitHub
-   url: https://github.com/robhinds
- - title: StackOverflow
-   url: http://stackoverflow.com/users/258813/rhinds
- - title: DZone
-   url: https://dzone.com/users/899489/rhinds.html
+   url: https://github.com/AdityaPai2398
  - title: LinkedIn
-   url: https://www.linkedin.com/pub/rob-hinds/21/361/3b1
+   url: https://www.linkedin.com/in/aditya-yogish-pai-2ab414132/ 
 
 #Any buzzword skills you want to include
 skills:
- - Groovy
- - Spring MVC
- - Spring Boot
- - Gradle
+ - Machine Learning
+ - Deep Learning
  - Java
- - JPA
+ - C++
+ - Python
+ - C
  - SQL
- - REST
- - Tech Architecture
+ - Computer Vision
+ - HTML CSS 
+ - PHP
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
-blogfeed: http://automateddeveloper.blogspot.com/feeds/posts/default?alt=rss
+blogfeed: https://mlhackerblog.wordpress.com/?feed=rss
 
 #Work experience is required
 roles:
- - title: Senior Engineer
-   start: 2016
+  - title: Blogger
+   start: September 2017
    end: Ongoing
-   employer: Emerald Street Ventures
-   description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
- - title: Senior Engineer
-   start: 2012
-   end: 2016
-   employer: Covestor
-   description: Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. <br/> I am a senior engineer working closely with the CTO, working across the full-stack, I am involved in all aspects of the technology including the website and back-end services.
- - title: Associate Manager
-   start: 2005
-   end: 2012
-   employer: Accenture
-   description: A range of functional and technical roles, primarily working on client sites in Financial Services.
+   employer: Self Employed
+   description: Writing blogs on various trends and projects in Machine Learning,Deep Learning,BlockCHain and Algorithms
+ - title: Research Student
+   start: May 2017
+   end: August 2017
+   employer: NMAMIT Nitte
+   description: Worked on detection of vehicles and pedestrians using Haar Cascade with background subtraction.Develoment was mainly done using OpenCV and Python,
+ - title: Web Developer
+   start: April 2017
+   end: May 2017
+   employer: MotivateBox
+   description: Added features such as Social Login buttons,Social Widgets.<br>Fixed various design issues.<br>All work was done on shopify platform using Liquid Language.
+
 
 #Education is required
 education:
- - level: Bachelor of Science (B.Sc.)
-   date: 2003
-   subject: Artificial Intelligence and Computer Science
-   school: University of Birmingham
+ - level: Bachelor Of Engineering
+   date: 2005-19
+   subject: Information Science and Engineering
+   school: NMAM Institute of Technology
 
 #This section is optional (as is the image link below)
 coursera:
-   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
+   profileurl: https://www.coursera.org/user/2dabea88a0ccaacb80ba21950f99394e
    courses:
     - title: Functional Programming Principles in Scala
-      link: https://www.coursera.org/course/progfun
+      link: https.://www.coursera.org/course/progfun
       optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
       date: September 16, 2013
     - title: Algorithms Design and Analysis, Part 1
@@ -88,17 +86,9 @@ github:
  - robhinds/AndroidChuckQuiz
  - robhinds/AndroidRssReader
 
-#Stackoverflow flair is optional
-stackoverflow:
-   profileurl: http://stackoverflow.com/users/258813/rhinds
-   flairimageurl: http://stackoverflow.com/users/flair/258813.png
 
-#Mobile apps section is optional
-apps:
- - name: Chuck the Quiz
-   platform: Android
-   url: https://play.google.com/store/apps/details?id=com.tmm.android.chuck&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS50bW0uYW5kcm9pZC5jaHVjayJd
-   description: A basic early Android app (open sourced)
+
+
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
