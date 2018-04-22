@@ -53,7 +53,7 @@ roles:
 #Education is required
 education:
  - level: Bachelor Of Engineering
-   date: 2005-19
+   date: 2015-19
    subject: Information Science and Engineering
    school: NMAM Institute of Technology
 
@@ -81,19 +81,18 @@ coursera:
 
 #List of interesting Github repo/projects to include - optional
 github:
- - robhinds/learning-neural-networks
- - robhinds/akka-http-rest-api-sample
- - robhinds/twitter-sentiment-analysis
- - robhinds/spring-reactor-twitter
- - robhinds/microservices
- - robhinds/spring-social-geeklist
- - robhinds/spring-social-stackoverflow
- - robhinds/food2vec
- - robhinds/SpringMongoIntegrationExample
- - robhinds/SpringNeo4JWebApp
- - robhinds/AndroidChuckQuiz
- - robhinds/AndroidRssReader
-
+ - AdityaPai2398/Vehicle-And-Pedestrian-Detection-Using-Haar-Cascades
+ - AdityaPai2398/Detection-of-Terror-Elements-Online-Using-Object-Detection
+ - AdityaPai2398/Random-forest-approach-to-predict-the-chances-of-a-person-being-prone-to-alcohol-or-substance-use
+ - AdityaPai2398/Decision-Tree-Approach-To-Predict-the-Chances-of-A-Person-being-Addicted-to-Substances-or-Alcohol
+ - AdityaPai2398/Logistic-Regression-with-NNs
+ - AdityaPai2398/Initializing-a-Neural-Net
+ - AdityaPai2398/Planar-Data-Classification
+ - AdityaPai2398/Neural-Networks-Notes
+ - AdityaPai2398/LASSO-Regression-to-predict-the-School-Connectedness-of-a-student
+ - AdityaPai2398/K-Means-to-predict-GPA
+ - AdityaPai2398/Numpy-Basics-Notebook
+ 
 
 
 
